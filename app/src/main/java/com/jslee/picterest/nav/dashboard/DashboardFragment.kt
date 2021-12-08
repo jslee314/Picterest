@@ -1,4 +1,4 @@
-package com.jslee.picterest.ui.dashboard
+package com.jslee.picterest.nav.dashboard
 
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -8,7 +8,6 @@ import android.widget.TextView
 import androidx.fragment.app.Fragment
 import androidx.lifecycle.Observer
 import androidx.lifecycle.ViewModelProvider
-import com.jslee.picterest.R
 import com.jslee.picterest.databinding.FragmentDashboardBinding
 
 class DashboardFragment : Fragment() {

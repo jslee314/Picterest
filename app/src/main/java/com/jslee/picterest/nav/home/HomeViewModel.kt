@@ -1,4 +1,4 @@
-package com.jslee.picterest.ui.home
+package com.jslee.picterest.nav.home
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
@@ -10,4 +10,14 @@ class HomeViewModel : ViewModel() {
         value = "This is home Fragment"
     }
     val text: LiveData<String> = _text
+
+
+    private var _eventBtn = MutableLiveData<Boolean>()
+    val eventBtn: LiveData<Boolean>
+        get() = _eventBtn
+
+    fun onClickBtn(){
+        _eventBtn.value = true
+    }
+
 }
