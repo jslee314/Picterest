@@ -14,9 +14,24 @@ class MainActivity : AppCompatActivity() {
     private lateinit var binding: ActivityMainBinding
 
     override fun onCreate(savedInstanceState: Bundle?) {
+        setTheme(android.R.style.Theme)
+
+        val selectedTheme = "Capricorn"
+        when(selectedTheme) {
+            "Capricorn" -> setTheme(R.style.Theme_Capricorn)
+            "Aquarius" -> setTheme(R.style.Theme_Aquarius)
+            "Pisces" -> setTheme(R.style.Theme_Pisces)
+            else -> setTheme(R.style.Theme_Aries)
+        }
+
+
         super.onCreate(savedInstanceState)
 
         binding = ActivityMainBinding.inflate(layoutInflater)
+
+
+
+
         setContentView(binding.root)
 
         val navView: BottomNavigationView = binding.navView

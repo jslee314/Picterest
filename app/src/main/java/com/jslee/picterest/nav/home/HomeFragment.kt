@@ -47,6 +47,7 @@ class HomeFragment : Fragment() {
                 Toast.makeText(activity, "btn clicked : $it", Toast.LENGTH_LONG).show()
 
 
+
             }
         })
     }
