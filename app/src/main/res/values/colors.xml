@@ -81,68 +81,41 @@
 
 
     Gemini
-    <color name="purple_200">#5E3612</color>
-    <color name="purple_500">#CEA07E</color>
-    <color name="purple_700">#FF3700B3</color>
-    <color name="teal_200">#FF03DAC5</color>
-    <color name="teal_700">#FF018786</color>
-    * #FFD131 Sunglow
-    * #FFE187 Crayola_Yellow
-    * #FFF0D8 Papaya_Whip
-    * #FFBE9E Peach
-    * #93EDFF Winter_Wizard
+    <color name="Sunglow">#FFD131</color>
+    <color name="Crayola_Yellow">#FFE187</color>
+    <color name="Papaya_Whip">#FFF0D8</color>
+    <color name="Peach">#FFBE9E</color>
+    <color name="Winter_Wizard">#93EDFF</color>
 
 
     Cancer
-    <color name="purple_200">#5E3612</color>
-    <color name="purple_500">#CEA07E</color>
-    <color name="purple_700">#FF3700B3</color>
-    <color name="teal_200">#FF03DAC5</color>
-    <color name="teal_700">#FF018786</color>
-    * #C0DAED Columbia_Blue
-    * #A5D8FF Fresh_Air
-    * #F4F6FC White_Smoke
-    * #4C5760 Independence
-    * #9CA7B7 Pewter_Blue
+    <color name="Columbia_Blue">#C0DAED</color>
+    <color name="Fresh_Air">#A5D8FF</color>
+    <color name="White_Smoke">#F4F6FC</color>
+    <color name="Independence">#4C5760</color>
+    <color name="Pewter_Blue">#9CA7B7</color>
 
     Leo
-     <color name="purple_200">#5E3612</color>
-    <color name="purple_500">#CEA07E</color>
-    <color name="purple_700">#FF3700B3</color>
-    <color name="teal_200">#FF03DAC5</color>
-    <color name="teal_700">#FF018786</color>
-    * #D1603D Medium_Vermillion
-    * #984447 Smoky_Topaz
-    * #F7B2AD Melon
-    * #F4AC45 Yellow_Orange
-    * #86BBD8 Dark_Sky_Blue
+     <color name="Medium_Vermillion">#D1603D</color>
+    <color name="Smoky_Topaz">#984447</color>
+    <color name="Melon">#F7B2AD</color>
+    <color name="Yellow_Orange">#F4AC45</color>
+    <color name="Dark_Sky_Blue">#86BBD8</color>
 
 
     Virgo    
-    <color name="purple_200">#5E3612</color>
-    <color name="purple_500">#CEA07E</color>
-    <color name="purple_700">#FF3700B3</color>
-    <color name="teal_200">#FF03DAC5</color>
-    <color name="teal_700">#FF018786</color>
-    
-    * #414535 Rifle_Green
-    * #6DA34D Palm_Leaf
-    * #F2E3BC Dutch_White
-    * #C57B57 Deer
-    * #3D3522 Olive_Drab
-
+    <color name="Rifle_Green">#414535</color>
+    <color name="Palm_Leaf">#6DA34D</color>
+    <color name="Dutch_White">#F2E3BC</color>
+    <color name="Deer">#C57B57</color>
+    <color name="Olive_Drab">#3D3522</color>
 
     Libra
-    <color name="purple_200">#5E3612</color>
-    <color name="purple_500">#CEA07E</color>
-    <color name="purple_700">#FF3700B3</color>
-    <color name="teal_200">#FF03DAC5</color>
-    <color name="teal_700">#FF018786</color>
-    * #F91876 Razmatazz
-    * #EFA48B Vivid_Tangerine
-    * #F4F1BB Blond
-    * #C2EABD Tea_Green
-    * #2EC4B6 Maximum_Blue_Green
+    <color name="Razmatazz">#F91876</color>
+    <color name="Vivid_Tangerine">#EFA48B</color>
+    <color name="Blond">#F4F1BB</color>
+    <color name="Tea_Green">#C2EABD</color>
+    <color name="Maximum_Blue_Green">#2EC4B6</color>
 
 
     Scorpio    
