@@ -18,109 +18,147 @@
     <color name="colorBlack">#000000</color>
     <color name="colorYellow">#FEC63B</color>
 
-
+    
     Capricorn
+    <color name="UPS_Brown">#5E3612</color>
+    <color name="French_Beige">#CEA07E</color>
+    <color name="Pale_Silver">#CDC5B4</color>
+    <color name="Artichoke">#99957A</color>
+    <color name="Jungle_Green">#1E3026</color>
+
+
+    Aquarius
     <color name="purple_200">#5E3612</color>
     <color name="purple_500">#CEA07E</color>
     <color name="purple_700">#FF3700B3</color>
     <color name="teal_200">#FF03DAC5</color>
     <color name="teal_700">#FF018786</color>
-
-    * #5E3612 –UPS Brown
-    * #CEA07E –French Beige
-    * #CDC5B4 –Pale Silver
-    * #99957A –Artichoke
-    * #1E3026 –Jungle Green
-
-
-    Aquarius
-    * #E07BE0 –Orchid
-    * #DCCCFF –Pale Lavender
-    * #FFD3E8 –Mimi Pink
-    * #D5DFE5 –Gainsboro
-    * #44E7ED –Turquoise
-
+    * #E07BE0 Orchid
+    * #DCCCFF Pale_Lavender
+    * #FFD3E8 Mimi_Pink
+    * #D5DFE5 Gainsboro
+    * #44E7ED Turquoise
 
 
     Pisces
-    * #FFE08B –Crayola Yellow
-    * #FFAFAF –Melon
-    * #FCE8D1 –Champagne
-    * #B8D8D8 –Columbia Blue
-    * #7ACCC9 –Pearl Aqua
+    <color name="purple_200">#5E3612</color>
+    <color name="purple_500">#CEA07E</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    * #FFE08B Crayola_Yellow
+    * #FFAFAF Melon
+    * #FCE8D1 Champagne
+    * #B8D8D8 Columbia_Blue
+    * #7ACCC9 Pearl_Aqua
 
 
 
     Aries
-    * #FC5246 –Tart Orange
-    * #FFA69E –Lt Salmon Pink
-    * #F8F4E3 –Linen
-    * #C92A22 –Fire Engine Red
-    * #FF8C42 –Mango Tango
+    <color name="purple_200">#5E3612</color>
+    <color name="purple_500">#CEA07E</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    * #FC5246 Tart_Orange
+    * #FFA69E Lt_Salmon_Pink
+    * #F8F4E3 Linen
+    * #C92A22 Fire_Engine_Red
+    * #FF8C42 Mango_Tango
 
 
     Taurus
-    * #EFB9CB –Cameo Pink
-    * #FFC9C9 –Bubblegum
-    * #F9F6EA –Old Lace
-    * #ADE5EA –Blue Lagoon
-    * #ABCCBE –Turquoise Green
+    <color name="purple_200">#5E3612</color>
+    <color name="purple_500">#CEA07E</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    * #EFB9CB Cameo_Pink
+    * #FFC9C9 Bubblegum
+    * #F9F6EA Old_Lace
+    * #ADE5EA Blue_Lagoon
+    * #ABCCBE Turquoise_Green
 
 
     Gemini
-    * #FFD131 –Sunglow
-    * #FFE187 –Crayola Yellow
-    * #FFF0D8 –Papaya Whip
-    * #FFBE9E –Peach
-    * #93EDFF –Winter Wizard
+    <color name="purple_200">#5E3612</color>
+    <color name="purple_500">#CEA07E</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    * #FFD131 Sunglow
+    * #FFE187 Crayola_Yellow
+    * #FFF0D8 Papaya_Whip
+    * #FFBE9E Peach
+    * #93EDFF Winter_Wizard
 
 
     Cancer
-    * #C0DAED –Columbia Blue
-    * #A5D8FF –Fresh Air
-    * #F4F6FC –White Smoke
-    * #4C5760 –Independence
-    * #9CA7B7 –Pewter Blue
+    <color name="purple_200">#5E3612</color>
+    <color name="purple_500">#CEA07E</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    * #C0DAED Columbia_Blue
+    * #A5D8FF Fresh_Air
+    * #F4F6FC White_Smoke
+    * #4C5760 Independence
+    * #9CA7B7 Pewter_Blue
 
     Leo
-    * #D1603D –Medium Vermillion
-    * #984447 –Smoky Topaz
-    * #F7B2AD –Melon
-    * #F4AC45 –Yellow Orange
-    * #86BBD8 –Dark Sky Blue
+     <color name="purple_200">#5E3612</color>
+    <color name="purple_500">#CEA07E</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    * #D1603D Medium_Vermillion
+    * #984447 Smoky_Topaz
+    * #F7B2AD Melon
+    * #F4AC45 Yellow_Orange
+    * #86BBD8 Dark_Sky_Blue
 
 
-    Virgo
-    * #414535 –Rifle Green
-    * #6DA34D –Palm Leaf
-    * #F2E3BC –Dutch White
-    * #C57B57 –Deer
-    * #3D3522 –Olive Drab
+    Virgo    
+    <color name="purple_200">#5E3612</color>
+    <color name="purple_500">#CEA07E</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    
+    * #414535 Rifle_Green
+    * #6DA34D Palm_Leaf
+    * #F2E3BC Dutch_White
+    * #C57B57 Deer
+    * #3D3522 Olive_Drab
 
 
     Libra
-    * #F91876 –Razmatazz
-    * #EFA48B –Vivid Tangerine
-    * #F4F1BB –Blond
-    * #C2EABD –Tea Green
-    * #2EC4B6 –Maximum Blue Green
+    <color name="purple_200">#5E3612</color>
+    <color name="purple_500">#CEA07E</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    * #F91876 Razmatazz
+    * #EFA48B Vivid_Tangerine
+    * #F4F1BB Blond
+    * #C2EABD Tea_Green
+    * #2EC4B6 Maximum_Blue_Green
 
 
-    Scorpio
-    * #960200 –Cardinal
-    * #F79256 –Pink Orange
-    * #CE6C47 –Copper Red
-    * #E6AA68 –Fawn
-    * #33658A –Teal Blue
+    Scorpio    
+    <color name="Cardinal">#960200</color>
+    <color name="Pink_Orange">#F79256</color>
+    <color name="Copper_Red">#CE6C47</color>
+    <color name="Fawn">#E6AA68</color>
+    <color name="Teal_Blue">#33658A</color>
 
 
     Sagittarius
-    * #2E2E56 –Deep Koamaru
-    * #73C2BE –Moonstone Blue
-    * #E8DAD3 –Bone
-    * #776885 –Old Lavender
-    * #462749 –Old Burgundy
-
+    <color name="Deep_Koamaru">#2E2E56</color>
+    <color name="Moonstone_Blue">#73C2BE</color>
+    <color name="Bone">#E8DAD3</color>
+    <color name="Old_Lavender">#776885</color>
+    <color name="Old_Burgundy">#462749</color>
 
 
 
