@@ -1,4 +1,4 @@
-package com.jslee.picterest
+package com.jslee.picterest.editDesign
 
 import androidx.lifecycle.ViewModel
 

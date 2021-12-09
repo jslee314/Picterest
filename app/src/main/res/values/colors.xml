@@ -5,6 +5,7 @@
     <color name="purple_700">#FF3700B3</color>
     <color name="teal_200">#FF03DAC5</color>
     <color name="teal_700">#FF018786</color>
+
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
 
@@ -16,4 +17,116 @@
 
     <color name="colorBlack">#000000</color>
     <color name="colorYellow">#FEC63B</color>
+
+
+    Capricorn
+    <color name="purple_200">#5E3612</color>
+    <color name="purple_500">#CEA07E</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+
+    * #5E3612 –UPS Brown
+    * #CEA07E –French Beige
+    * #CDC5B4 –Pale Silver
+    * #99957A –Artichoke
+    * #1E3026 –Jungle Green
+
+
+    Aquarius
+    * #E07BE0 –Orchid
+    * #DCCCFF –Pale Lavender
+    * #FFD3E8 –Mimi Pink
+    * #D5DFE5 –Gainsboro
+    * #44E7ED –Turquoise
+
+
+
+    Pisces
+    * #FFE08B –Crayola Yellow
+    * #FFAFAF –Melon
+    * #FCE8D1 –Champagne
+    * #B8D8D8 –Columbia Blue
+    * #7ACCC9 –Pearl Aqua
+
+
+
+    Aries
+    * #FC5246 –Tart Orange
+    * #FFA69E –Lt Salmon Pink
+    * #F8F4E3 –Linen
+    * #C92A22 –Fire Engine Red
+    * #FF8C42 –Mango Tango
+
+
+    Taurus
+    * #EFB9CB –Cameo Pink
+    * #FFC9C9 –Bubblegum
+    * #F9F6EA –Old Lace
+    * #ADE5EA –Blue Lagoon
+    * #ABCCBE –Turquoise Green
+
+
+    Gemini
+    * #FFD131 –Sunglow
+    * #FFE187 –Crayola Yellow
+    * #FFF0D8 –Papaya Whip
+    * #FFBE9E –Peach
+    * #93EDFF –Winter Wizard
+
+
+    Cancer
+    * #C0DAED –Columbia Blue
+    * #A5D8FF –Fresh Air
+    * #F4F6FC –White Smoke
+    * #4C5760 –Independence
+    * #9CA7B7 –Pewter Blue
+
+    Leo
+    * #D1603D –Medium Vermillion
+    * #984447 –Smoky Topaz
+    * #F7B2AD –Melon
+    * #F4AC45 –Yellow Orange
+    * #86BBD8 –Dark Sky Blue
+
+
+    Virgo
+    * #414535 –Rifle Green
+    * #6DA34D –Palm Leaf
+    * #F2E3BC –Dutch White
+    * #C57B57 –Deer
+    * #3D3522 –Olive Drab
+
+
+    Libra
+    * #F91876 –Razmatazz
+    * #EFA48B –Vivid Tangerine
+    * #F4F1BB –Blond
+    * #C2EABD –Tea Green
+    * #2EC4B6 –Maximum Blue Green
+
+
+    Scorpio
+    * #960200 –Cardinal
+    * #F79256 –Pink Orange
+    * #CE6C47 –Copper Red
+    * #E6AA68 –Fawn
+    * #33658A –Teal Blue
+
+
+    Sagittarius
+    * #2E2E56 –Deep Koamaru
+    * #73C2BE –Moonstone Blue
+    * #E8DAD3 –Bone
+    * #776885 –Old Lavender
+    * #462749 –Old Burgundy
+
+
+
+
+
+
+
+
+
 </resources>
